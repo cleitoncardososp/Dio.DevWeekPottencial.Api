@@ -1,6 +1,6 @@
 ﻿# WebAPI de Gerenciamento de Contratos #
 
-Aplicação desenvolvidada com base no DevWeekPottencial da parceria [DIO] + [Pottencial].
+Aplicação desenvolvida com base no DevWeekPottencial da parceria [DIO] + [Pottencial].
 
 Com a didática excelente do mestre [Felipe Aguiar] e apoio do [Rafael Galvão], criamos uma Web API usando o .NET 6, EntityFramework e BancoInMemory.
 

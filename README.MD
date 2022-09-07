@@ -1,4 +1,4 @@
-﻿# WebAPI de Gerenciamento de Contratos #
+﻿# WebAPI de Gerenciamento de Contratos # 📄🙋🏼‍♂️
 
 Aplicação desenvolvida com base no DevWeekPottencial da parceria [DIO] + [Pottencial].
 

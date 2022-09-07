@@ -6,11 +6,7 @@ Com a didática excelente do mestre [Felipe Aguiar] e apoio do [Rafael Galvão],
 
 Foram 4 dias de muitos aprendizados e mentorias.
 
-Pretendo futuramente aplicar os designs patterns DTO/Data Annotations(para padronizar a entrada de dados do Request), Repositório(para descentralizar os procedimentos da controller) e padronizar os StatusCode/Response de acordo com o padrão ResTFull. 
-
-Bora pro Bootcamp da parceria 🚀!!!
-
-Link Github: 
+Pretendo futuramente aplicar os designs patterns DTO/Data Annotations(para padronizar a entrada de dados do Request), Repositório(para descentralizar os procedimentos da controller) e padronizar os StatusCode/Response de acordo com o padrão RestFull. 
 
 ![Site do Evento](Docs/Imgs/SiteEvento.png)
 
